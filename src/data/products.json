@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Procesador AMD Ryzen 5 7600X",
+    "price": 229,
+    "image": "https://placehold.co/400x400/png?text=Ryzen+5+7600X",
+    "category": "Procesadores"
+  },
+  {
+    "id": 2,
+    "name": "Tarjeta Madre Gigabyte B650M Gaming Wifi",
+    "price": 149,
+    "image": "https://placehold.co/400x400/png?text=Gigabyte+B650M",
+    "category": "Tarjetas Madre"
+  },
+  {
+    "id": 3,
+    "name": "Tarjeta de Video RTX 5060",
+    "price": 329,
+    "image": "https://placehold.co/400x400/png?text=RTX+5060",
+    "category": "Tarjetas Gráficas"
+  },
+  {
+    "id": 4,
+    "name": "Memoria RAM 32GB DDR5 6000MHz",
+    "price": 110,
+    "image": "https://placehold.co/400x400/png?text=RAM+32GB+DDR5",
+    "category": "Memorias"
+  }
+]
